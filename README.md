@@ -1,4 +1,4 @@
-```markdown
+
 <!--
   Lavender & Black theme — using color names (Lavender, Black, Thistle) instead of hex codes.
   Banner is an inline SVG so it renders on GitHub.
@@ -124,4 +124,3 @@ If you'd like, I can:
 ---
 
 Thank you — I drafted this README update to be ready to copy/paste into your repository. If you want, I can now create the demo project files (HTML/CSS/JS) with the Lavender & Black theme and show how to deploy them via GitHub Pages.
-```
