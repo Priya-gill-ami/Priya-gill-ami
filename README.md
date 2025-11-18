@@ -54,5 +54,5 @@ Badges (examples you can copy):
 
 - GitHub: @priya-gill-ami
 - LinkedIn: https://www.linkedin.com/in/priyagill07/
-- Email: priyagill99968@Gmail.com
+- Email: priyagill99968@gmail.comm
 ---
