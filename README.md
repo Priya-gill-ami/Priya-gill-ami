@@ -4,8 +4,6 @@
   Banner is an inline SVG so it renders on GitHub.
 -->
 
-## <img alt="Lavender & Black banner" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='220'><rect width='1200' height='220' fill='black'/><rect x='24' y='24' width='1152' height='172' rx='14' fill='lavender' opacity='0.12'/><text x='60' y='108' font-size='38' fill='lavender' font-family='Segoe UI, Arial, sans-serif'>Priya Gill — Always learning, always building</text><text x='60' y='150' font-size='16' fill='thistle'>One commit at a time • Lavender & Black profile</text></svg>" />
-
 # Hi there 👋
 ---
 
