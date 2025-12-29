@@ -32,19 +32,17 @@
 - Email: priyagill99968@gmail.com
 - Resume: https://in.docworkspace.com/d/sIJPR3I-OAYny7sgG?sa=601.1037
 
-Badges (examples you can copy):
+Badges:
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-Priya%20Gill-lavender)
 - ![Available to collaborate](https://img.shields.io/badge/Status-Open%20to%20Collaboration-thistle)
 - ![Top languages](https://img.shields.io/badge/Top%20Languages-Java%20%7C%20MySql-lavender)
 
-(Shields badges accept color names — adjust text and links to suit.)
-
 ---
 
 ## Open to
-- Mentorship and advising early-stage product/marketing teams
-- Collaboration on product-led growth experiments, developer tooling, and small web UI projects
-- Speaking on growth, product-marketing alignment, and building cross-functional teams
+- Peer mentoring and academic support for students through admissions and graduate programs, assisting with application systems and process guidance
+- Collaboration on software and academic projects, including full-stack development, secure coding assignments, and data-driven coursework projects
+- Presentations and discussions on software development concepts, information science topics, and cross-functional teamwork through coursework and group projects
 
 ---
 
