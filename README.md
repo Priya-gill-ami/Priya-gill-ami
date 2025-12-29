@@ -35,7 +35,7 @@
 Badges:
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-Priya%20Gill-lavender)
 - ![Available to collaborate](https://img.shields.io/badge/Status-Open%20to%20Collaboration-thistle)
-- ![Top languages](https://img.shields.io/badge/Top%20Languages-Java(Springboot)%20%7C%20MySql-lavender%20%7C%20C-lavender)
+- ![Top languages](https://img.shields.io/badge/Top%20Languages-Java(Springboot)%20%7C%20MySql-lavender)
 
 ---
 
